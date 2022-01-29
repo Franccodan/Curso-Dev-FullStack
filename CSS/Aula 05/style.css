@@ -1,0 +1,17 @@
+body {
+    background-color: rgb(230, 230, 233);
+}
+h1 {
+    color: darkblue;
+}
+h2 {
+    color: darkblue;
+}
+.foto-perfil {
+    width: 200px;
+    border: 5px double rgb(217, 217, 233);
+    border-radius: 100px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    margin-left: 500px;
+} 

@@ -1,0 +1,12 @@
+body {
+    background-image: url(background.gif);
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-attachment: scroll;
+}
+h1 {
+    color: darkblue;
+}
+h2 {
+    color: darkblue;
+}
