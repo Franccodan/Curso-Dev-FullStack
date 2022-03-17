@@ -1,0 +1,17 @@
+.conteudo {
+    height: 500px;
+    border: 2px solid black;
+    padding: 20px;
+    position: relative;
+}
+
+.quadrado {
+    position: absolute;
+    left: 50px;
+    top: 50px;
+    width: 50px;
+    height: 100px;
+    background: black;
+    color: white;
+    font-size: 12px;
+}

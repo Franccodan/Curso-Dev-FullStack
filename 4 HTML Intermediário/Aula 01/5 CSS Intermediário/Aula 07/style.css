@@ -1,0 +1,33 @@
+p::selection {
+    color: pink;
+    background-color: blue;
+}
+
+p::first-line {
+    color: orange;
+}
+
+p::first-letter {
+    color: red;
+    font-size: 50px;
+}
+
+h1::before {
+    background: url(https://i.pinimg.com/originals/3e/26/d6/3e26d6754031f68dd0c9037434d4e8cd.png);
+    background-size: cover;
+    width: 30px;
+    height: 30px;
+    display: inline-block;
+    content: '';
+    margin-right: 10px;
+}
+
+h1::after {
+    background: url(https://i.pinimg.com/originals/3e/26/d6/3e26d6754031f68dd0c9037434d4e8cd.png);
+    background-size: cover;
+    width: 30px;
+    height: 30px;
+    display: inline-block;
+    content: '';
+    margin-left: 10px;
+}
